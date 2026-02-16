@@ -41,7 +41,7 @@ const rahul = {
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
+<img src="https://raw.githubusercontent.com/Rahullee135/Rahullee135/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
 
 </div>
 
