@@ -112,20 +112,16 @@ const rahul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
 <img width="49%" src="https://streak-stats.demolab.com?user=Rahullee135&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
-</div>
-
-<div align="center">
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rahullee135&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+<img src="https://github-trophies.vercel.app/?username=Rahullee135&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 </div>
 
