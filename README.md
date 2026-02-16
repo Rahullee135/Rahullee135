@@ -10,6 +10,7 @@
 
 <br/><br/>
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://rahullee135.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Gmail](https://img.shields.io/badge/-Mail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rahul.pr.indium@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=Rahullee135&color=58A6FF&style=flat-square&label=Profile+Visitors)
