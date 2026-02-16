@@ -30,19 +30,14 @@ const rahul = {
 
 ---
 
-## 🕹️ Wanna Play?
+## 🐍
 
 <div align="center">
-
-[![Play Pac-Man](https://img.shields.io/badge/🕹️_Play_Pac--Man-FFD700?style=for-the-badge&logo=game&logoColor=black)](https://pacman.cc/)
-[![Play Snake](https://img.shields.io/badge/🐍_Play_Snake-4CAF50?style=for-the-badge&logo=game&logoColor=white)](https://playsnake.org/)
-[![Play 2048](https://img.shields.io/badge/🔢_Play_2048-FF6B6B?style=for-the-badge&logo=game&logoColor=white)](https://play2048.co/)
-[![Play Tetris](https://img.shields.io/badge/🧱_Play_Tetris-9B59B6?style=for-the-badge&logo=game&logoColor=white)](https://tetris.com/play-tetris)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Rahullee135/Rahullee135/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 </div>
 
 ---
