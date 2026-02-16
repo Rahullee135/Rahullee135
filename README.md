@@ -87,6 +87,7 @@ const rahul = {
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![Zendesk](https://img.shields.io/badge/-Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -107,20 +108,18 @@ const rahul = {
 
 ---
 
-## 📊 Stats
+## 🏗️ Featured Projects
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahullee135&theme=github-dark-blue&hide_border=true&background=0d1117" />
-
-<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
-
-</div>
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rahullee135&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/Rahullee135)
+| Project | Tech | What it does |
+|---------|------|-------------|
+| 🏥 **Healthcare Tariff Validation** | React, TypeScript, Zustand, Plotly.js | Real-time processing of treatment bills & claim docs |
+| 📦 **Warehouse Management** | React, Material UI, Zustand | Order tracking, barcode scanning, inventory sync |
+| 🎓 **EduAlliance** | React, Lexical Editor, Zustand | Social media platform for schools |
+| 🔗 **Kibo-Salesforce Integration** | Node.js, Salesforce LWC, Azure/GCP | Middleware connecting CRM with OMS |
+| 🎮 **GameOn Desktop** | React, Wails (Go), Plotly.js | Desktop app for game testing with live graphs |
+| 🎬 **Video Player** | React, Node.js, Express, MongoDB | MERN video player with YouTube integration |
 
 </div>
 
@@ -128,9 +127,13 @@ const rahul = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rahullee135&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)](https://github.com/Rahullee135)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" height="250" />
 
-<br/>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahullee135&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact" height="150" />
+
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=Always+shipping.+Always+learning.+%F0%9F%9A%80" />
 
