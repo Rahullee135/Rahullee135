@@ -108,18 +108,24 @@ const rahul = {
 
 ---
 
-## 🏗️ Featured Projects
+## 📊 Stats
 
 <div align="center">
 
-| Project | Tech | What it does |
-|---------|------|-------------|
-| 🏥 **Healthcare Tariff Validation** | React, TypeScript, Zustand, Plotly.js | Real-time processing of treatment bills & claim docs |
-| 📦 **Warehouse Management** | React, Material UI, Zustand | Order tracking, barcode scanning, inventory sync |
-| 🎓 **EduAlliance** | React, Lexical Editor, Zustand | Social media platform for schools |
-| 🔗 **Kibo-Salesforce Integration** | Node.js, Salesforce LWC, Azure/GCP | Middleware connecting CRM with OMS |
-| 🎮 **GameOn Desktop** | React, Wails (Go), Plotly.js | Desktop app for game testing with live graphs |
-| 🎬 **Video Player** | React, Node.js, Express, MongoDB | MERN video player with YouTube integration |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Rahullee135&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+</div>
+
+<div align="center">
+
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rahullee135&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
 
 </div>
 
@@ -127,11 +133,7 @@ const rahul = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&size_weight=0.5&count_weight=0.5" height="250" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Rahullee135&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact" height="150" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahullee135&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
 
 <br/><br/>
 
