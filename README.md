@@ -22,7 +22,7 @@
 ```javascript
 const rahul = {
     role: "Full Stack Developer",
-    code: ["JavaScript", "TypeScript", "Python", "Go"],
+    code: ["JavaScript", "TypeScript", "Go"],
     askMeAbout: ["web dev", "system design", "API architecture", "cloud"],
     currentlyBuilding: "Healthcare SaaS platforms",
     funFact: "I mass-debug at 2 AM and everything starts making sense"
@@ -64,7 +64,6 @@ const rahul = {
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 </td>
