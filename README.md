@@ -6,7 +6,7 @@
 
 <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-58A6FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Lives-India-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Experience-4%2B_Years-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Experience-4.5%2B_Years-orange?style=for-the-badge" />
 
 <br/><br/>
 
@@ -91,9 +91,9 @@ const rahul = {
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rahullee135/Rahullee135/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rahullee135/Rahullee135/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Rahullee135/Rahullee135/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </div>
 
@@ -112,10 +112,11 @@ const rahul = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-<img width="49%" src="https://streak-stats.demolab.com?user=Rahullee135&theme=github-dark-blue&hide_border=true&background=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=Rahullee135&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
 
-<img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
+<img src="https://streak-stats.demolab.com?user=Rahullee135&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahullee135&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" />
 
 </div>
 
@@ -128,10 +129,6 @@ const rahul = {
 ---
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahullee135&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
-
-<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=8B949E&center=true&vCenter=true&width=400&lines=Always+shipping.+Always+learning.+%F0%9F%9A%80" />
 
